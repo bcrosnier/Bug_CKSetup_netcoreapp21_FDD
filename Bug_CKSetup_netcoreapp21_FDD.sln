@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bug_CKSetup_netcoreapp21_FDD", "Bug_CKSetup_netcoreapp21_FDD\Bug_CKSetup_netcoreapp21_FDD.csproj", "{96980B12-A1E6-49A8-8966-F3CF4EDE575B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96980B12-A1E6-49A8-8966-F3CF4EDE575B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96980B12-A1E6-49A8-8966-F3CF4EDE575B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96980B12-A1E6-49A8-8966-F3CF4EDE575B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96980B12-A1E6-49A8-8966-F3CF4EDE575B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B00E0A97-2863-4C17-B3F4-866D5755495B}
+	EndGlobalSection
+EndGlobal
